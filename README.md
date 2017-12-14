@@ -22,6 +22,7 @@ Here is a brief summary to get you started:
 
 ## Screenshots
 ![2017-12-14](https://user-images.githubusercontent.com/16771666/33991606-333daa2a-e0f5-11e7-9cf0-885904297f58.png)
+
 Enter the LEVEL number (between 3 and 7)
 
 ![2017-12-14 2](https://user-images.githubusercontent.com/16771666/33991601-2cee778a-e0f5-11e7-9f93-639075cc93da.png)
