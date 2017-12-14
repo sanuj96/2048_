@@ -21,11 +21,11 @@ Here is a brief summary to get you started:
 * `moveDown` function is defined for the actions to be undertaken when the downward key is pressed.
 
 ## Screenshots
-https://drive.google.com/open?id=1Q67rCTbfFfBSJx1PGnQBg4RXXf5ZOQ6E
+![alt text](https://drive.google.com/open?id=1Q67rCTbfFfBSJx1PGnQBg4RXXf5ZOQ6E)
 Enter the LEVEL number (between 3 and 7)
 
-https://drive.google.com/open?id=1pRD1rNKV6f6xp3ROkS1Pq_CFCVIwlYMm
+![alt text](https://drive.google.com/open?id=1pRD1rNKV6f6xp3ROkS1Pq_CFCVIwlYMm)
 
-https://drive.google.com/open?id=1iL2Q8sMI742adrxaP36joajDU4l8G20J
+![alt text](https://drive.google.com/open?id=1iL2Q8sMI742adrxaP36joajDU4l8G20J)
 
 Use backspace Key to Undo a move.
